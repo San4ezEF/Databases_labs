@@ -1,5 +1,5 @@
 # Databases_labs
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm San4ezEF</a> 
 
 <h3 align="center">ER-диаграмма для салонов по прокату авто</h3>
 
@@ -7,4 +7,4 @@
 
 <h3 align="center">Реляционная схема</h3>
 
-![Иллюстрация к проекту](реляционная схема.png)
+![Иллюстрация к проекту]("реляционная схема.png")
